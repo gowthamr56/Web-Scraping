@@ -1,2 +1,8 @@
-pip install requests
-pip install beautifulsoup4
+Modules:
+    pip install requests
+    pip install beautifulsoup4
+
+Note:
+    To send a mail using python, you need change two security settings in google account.
+        1. Turn off two step verification(myaccount.google.com -> Security -> Two-step verification -> Turn off)
+        2. Turn on less secure app access(myaccount.google.com -> Security -> Less secure app access -> Turn on)
